@@ -2,7 +2,6 @@
 title: Life Choices REST API References
 
 language_tabs:
-  - shell
 
 toc_footers:
   - <a href='https://github.com/cmpe273-indexzero/life-choices-WS'>View WS Project GitHub Page</a>
