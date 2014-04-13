@@ -31,7 +31,29 @@ consumes `application/json`
 
 produces `application/json`
 
-body
+```
+{
+    "userName":"maksim",
+    "timestamp":1394932551,
+    "latitude" : 37.415365 ,
+    "longitude" : -122.089803
+ }
+```
+
+Response type: **application/json**
+Response Payload Sample:
+
+```
+{
+    "id":"5324fb6803647201bbbfe4da",
+    "timestamp":1.39493261E9,
+    "latitude":37.415363,
+    "longitude":-122.089806,
+    "userName":"maksim"
+}
+```
+
+Response Status: **201 Created**
 
 
 
